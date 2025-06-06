@@ -2,6 +2,10 @@
 
 Welcome to the Car Game repository! This project was developed during the KCL Mini Game Jam 2025, where our team had just 2 hours to create an engaging racing experience.
 
+
+https://github.com/user-attachments/assets/055b894e-afc7-442b-994c-8e4fa7825b91
+
+
 ## Overview
 
 In this fast-paced racing game, players can enjoy thrilling races with unique tracks and challenges. The game showcases our creativity and teamwork, featuring original music and art designed specifically for this project.
